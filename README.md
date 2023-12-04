@@ -14,7 +14,7 @@ To run this project, you'll need to install the following dependencies:
 
 You can install them using `pip` or any other package manager.
 
-```bash pip install numpy pandas yfinance tensorflow scikit-learn matplotlib
+```bash pip install numpy pandas yfinance tensorflow scikit-learn matplotlib```
 
 **Global Definitions**
 

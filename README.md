@@ -31,8 +31,8 @@ You can customize the behavior of the project by changing the global definitions
 
 To run the project, execute the Python script in your terminal or preferred Python environment. It will provide you with options to predict stock prices for predefined companies and allow you to enter a custom company symbol for prediction.
 
-```bash
-python stock_price_prediction.py
+```bash python stock_price_prediction.py```
+
 
 **Predefined Companies**
 
